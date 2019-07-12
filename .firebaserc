@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mail-service-d2f92": {
+      "hosting": {
+        "simple-transactional-mail": [
+          "mail-service-d2f92"
+        ]
+      }
+    }
+  }
+}
